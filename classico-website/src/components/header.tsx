@@ -34,7 +34,7 @@ export default function Header() {
                 <NavbarContent justify="end">
                     <NavbarItem>
                         <Button as={Link} color="default" href="#" variant="flat" radius="full">
-                            Algum Texto
+                            Ver Mais
                         </Button>
                     </NavbarItem>
                 </NavbarContent>
